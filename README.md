@@ -1,2 +1,2 @@
-# django_interview_questions
+# Django Interview Questions
 Django Interview Questions
