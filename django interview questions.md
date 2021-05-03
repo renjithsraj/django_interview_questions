@@ -1,3 +1,6 @@
+# Django Interview Questions
+=============================
+
 1. What is Django framework ?
 2. Why most of them suggesting Django is good for web developement?(explain the main features)
 3. What is MVC/MVT architecture ?
