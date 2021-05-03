@@ -86,11 +86,8 @@
 92. How good are you in Git commands ( please sure about the merge commands,how to resolve whilte conflit happen )
 93. Study about the git commands (reset, rebase, revert)?
 94. How good are you in website design ( please study basic stuffs about bootstrap,Html5,Css,Jquery)
-95. Did you know about Angular js ? How its integrate with django project ?
-96. Please study some stuffs regarding data mining and data visulaization ?
-97. Study about Scipy and Numpy ,NLTK ?
-98. Have you tried any Automation with python ? like publlish the application with server , testing, and etc?
-99. Django has been updated plesae read the documents django 1.11 version ?
+
+
 100. whats use of the apps.py ?
 101. whats __pycache__ ? what is .pyc files will do?
 
