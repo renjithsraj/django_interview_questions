@@ -41,7 +41,16 @@ This Repo Contains the Django Application Developer Interview Questions
 32. What package is using for testing django application?
 33. What is scheduler ? How to configure ?
 34. What is celery ?
-35. what is message broker(Redis, RabitMQ, etc)
+35. what is message broker(Redis, RabitMQ, etc)?
+36. What is template inheritance?
+37. How to create custom management command?
+38. How to test unittesting in django?
+39. How logging django application?
+40. How to create custom user roles in django?
+41. How to configure databases in django application?
+42. What is Q and F operator?
+43. Differance between Annotate and Aggregation in Django?
+44. 
 
 
 
